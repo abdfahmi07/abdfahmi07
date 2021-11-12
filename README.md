@@ -1,16 +1,14 @@
-### Hi there 👋
 
-<!--
-**abdfahmi07/abdfahmi07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### <img src="https://i.pinimg.com/originals/00/4b/17/004b173f6e3d6843df10114e087f30a8.gif" width="50" height="50" /> Hi there, I'm Dull
 
-Here are some ideas to get you started:
+Hi, I'm Abdulloh Fahmi, an ambitious learner about frontend developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on <a href="https://www.umroh.com/">Umroh.com</a>
+- 🌱 I’m currently learning Javascript, CSS, NodeJs, ReactJs and MongoDB
+
+<br>
+
+-----
+Credits: [Abdulloh Fahmi](https://github.com/abdfahmi07)
+
+Last Edited on: 12/11/2021
