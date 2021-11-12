@@ -6,8 +6,6 @@ Hi, I'm Abdulloh Fahmi, an ambitious learner about frontend developer.
 - 🔭 I’m currently working on <a href="https://www.umroh.com/">Umroh.com</a>
 - 🌱 I’m currently learning Javascript, CSS, NodeJs, ReactJs and MongoDB
 
-<br>
-
 -----
 Credits: [Abdulloh Fahmi](https://github.com/abdfahmi07)
 
