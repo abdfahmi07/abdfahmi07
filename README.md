@@ -5,7 +5,7 @@ Hi, I'm Abdulloh Fahmi, an ambitious learner about frontend developer.
 
 - 🔭 I’m currently working on <a href="https://www.umroh.com/">Umroh.com</a>
 - 🌱 I’m currently learning Javascript, CSS, NodeJs, ReactJs and MongoDB
-
+- 🏫 I'm studying at [STT Terpadu Nurul Fikri](https://nurulfikri.ac.id/) majoring in informatics engineering
 -----
 ### 💬 Get in touch with me
 - Linkedin: [abdulloh-fahmi](https://www.linkedin.com/in/abdulloh-fahmi/)
