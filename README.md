@@ -7,6 +7,10 @@ Hi, I'm Abdulloh Fahmi, an ambitious learner about frontend developer.
 - 🌱 I’m currently learning Javascript, CSS, NodeJs, ReactJs and MongoDB
 
 -----
-Credits: [Abdulloh Fahmi](https://github.com/abdfahmi07)
+### 💬 Get in touch with me
+Linkedin: [abdulloh-fahmi](https://www.linkedin.com/in/abdulloh-fahmi/)
+Instagram: [@abdullohfahmii](https://www.instagram.com/abdullohfahmii_/)
 
+
+Credits: [Abdulloh Fahmi](https://github.com/abdfahmi07)
 Last Edited on: 12/11/2021
