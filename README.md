@@ -8,8 +8,8 @@ Hi, I'm Abdulloh Fahmi, an ambitious learner about frontend developer.
 
 -----
 ### 💬 Get in touch with me
-Linkedin: [abdulloh-fahmi](https://www.linkedin.com/in/abdulloh-fahmi/)
-Instagram: [@abdullohfahmii](https://www.instagram.com/abdullohfahmii_/)
+- Linkedin: [abdulloh-fahmi](https://www.linkedin.com/in/abdulloh-fahmi/)
+- Instagram: [@abdullohfahmii](https://www.instagram.com/abdullohfahmii_/)
 
 
 Credits: [Abdulloh Fahmi](https://github.com/abdfahmi07)
