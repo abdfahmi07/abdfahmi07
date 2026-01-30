@@ -3,7 +3,7 @@
 
 Hi, I'm Abdulloh Fahmi, an ambitious learner about frontend developer.
 
-- 🔭 I’m currently working on <a href="https://web.inovasi78.com/">Inovatif 78</a>
+- 🔭 I’m currently working on <a href="https://langitdigital78.com/">Langit Digital 78</a>
 - 🌱 I’m currently learning Javascript, CSS, NodeJs, ReactJs and MongoDB
 - 🏫 I'm studying at [STT Terpadu Nurul Fikri](https://nurulfikri.ac.id/) majoring in informatics engineering
 -----
@@ -13,4 +13,4 @@ Hi, I'm Abdulloh Fahmi, an ambitious learner about frontend developer.
 
 
 Credits: [Abdulloh Fahmi](https://github.com/abdfahmi07)
-Last Edited on: 17/02/2023
+Last Edited on: 30/01/2026
